@@ -1,0 +1,5 @@
+/target/
+/.codex/.loadout/
+/.codex/skills/_loadout__*
+/.claude/skills/_loadout__*
+.DS_Store
