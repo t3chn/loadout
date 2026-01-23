@@ -16,10 +16,13 @@
 ![Rust](https://img.shields.io/badge/rust-stable-000000?style=flat-square&logo=rust&logoColor=00ff00)
 ![prek](https://img.shields.io/badge/prek-enabled-000000?style=flat-square&logo=pre-commit&logoColor=00ff00)
 ![policy](https://img.shields.io/badge/policy-english--only-000000?style=flat-square&labelColor=000000&color=00ff00)
+![status](https://img.shields.io/badge/status-experimental-000000?style=flat-square&labelColor=000000&color=00ff00)
 
 </div>
 
 ---
+
+> This is a personal experiment and not a production-ready solution.
 
 <details open>
 <summary><b>📌 ~/problem</b></summary>
